@@ -1,0 +1,13 @@
+current directory: /Users/cgenao/Documents/ReactNativeProjects/ReactTutorial/PokeDex/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20240118-13790-1ytteie.rb extconf.rb
+creating Makefile
+
+current directory: /Users/cgenao/Documents/ReactNativeProjects/ReactTutorial/PokeDex/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/cgenao/Documents/ReactNativeProjects/ReactTutorial/PokeDex/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/cgenao/Documents/ReactNativeProjects/ReactTutorial/PokeDex/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
